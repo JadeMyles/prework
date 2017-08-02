@@ -1,0 +1,55 @@
+h1 {
+
+	text-align: center;
+
+}
+
+.red {
+	color: red;
+}
+
+
+.blue {
+	color: blue;
+}
+
+
+.green {
+	color: green;
+}
+
+.centertext {
+	text-align: center;
+}
+
+.bigfont {
+	font-size: 3em;
+}
+
+.lilfont {
+	font-size: .75em;
+}
+
+.boldtext {
+	font-weight: bold;
+}
+
+.difffont {
+	font-family: Verdana;
+}
+
+.crazyfunomg {
+	color: orange;
+	font-weight: bold;
+	font-size: 1.75em;
+}
+
+.styledFont {
+	color: green;
+	font-size: 1.2em;
+}
+
+#styledImage {
+	border: 15px solid;
+	border-color: orange;
+}
